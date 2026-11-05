@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-moderation-nextjs",
+  "capabilityKey": "liberusoftware/module-social-network-moderation",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-social-network-moderation-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/social-network/nextjs/moderation.md",
+  "presentationPlan": "projects/social-network/nextjs/moderation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
